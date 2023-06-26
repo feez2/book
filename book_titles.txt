@@ -1,57 +1,57 @@
 1984
-A Tale of Two Cities
-A Time To Kill
-Animal Farm
-Anna Karenina
-Brave New World
-Catch-22
-Crime and Punishment
-Day
-Don Quixote
-Fine
-Frankenstein
-Frankenstein
-Gone with the Wind
-Great
-Great Expectations
-Harry Potter and the Sorcerer's Stone
-Jane Eyre
-Lolita
-Lord of the Flies
-Moby Dick
-Night
-One Hundred Years of Solitude
-Pride and Prejudice
-Slaughterhouse-Five
-Summer
-The Adventures of Huckleberry Finn
-The Alchemist
-The Bell Jar
-The Book Thief
-The Brothers Karamazov
-The Catcher in the Rye
-The Chronicles of Narnia
-The Color Purple
-The Count of Monte Cristo
-The Giver
-The Grapes of Wrath
-The Great Gatsby
-The Handmaid's Tale
-The Hitchhiker's Guide to the Galaxy
-The Hobbit
-The Hobbit
-The Hunger Games
-The Kite Runner
-The Little Prince
-The Lord of the Rings
-The Odyssey
-The Old Man and the Sea
-The Picture of Dorian Gray
-The Scarlet Letter
-The Shining
-Time
-To Kill a Mockingbird
-To the Lighthouse
-War and Peace
-Winter
-Wuthering Heights
+a tale of two cities
+a time to kill
+animal farm
+anna karenina
+brave new world
+catch-22
+crime and punishment
+day
+don quixote
+fine
+frankenstein
+frankenstein
+gone with the wind
+great
+great expectations
+harry potter and the sorcerer's stone
+jane eyre
+lolita
+lord of the flies
+moby dick
+night
+one hundred years of solitude
+pride and prejudice
+slaughterhouse-five
+summer
+the adventures of huckleberry finn
+the alchemist
+the bell jar
+the book thief
+the brothers karamazov
+the catcher in the rye
+the chronicles of narnia
+the color purple
+the count of monte cristo
+the giver
+the grapes of wrath
+the great gatsby
+the handmaid's tale
+the hitchhiker's guide to the galaxy
+the hobbit
+the hobbit
+the hunger games
+the kite runner
+the little prince
+the lord of the rings
+the odyssey
+the old man and the sea
+the picture of dorian gray
+the scarlet letter
+the shining
+time
+to kill a mockingbird
+to the lighthouse
+war and peace
+winter
+wuthering heights
